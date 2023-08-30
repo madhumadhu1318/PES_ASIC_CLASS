@@ -773,7 +773,7 @@ Go to verilog_files directory where the design and test_bench are present
 Run the following commands to simulate dff_async_set.v
 ```
 iverilog dff_async_set.v tb_dff_async_set.v
-./a.ot
+./a.out
 gtkwave tb_dff_async_set.vcd
 ```
 ![6](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/3d17d0a1-229d-49b2-8f1d-992f0fe608d4)
