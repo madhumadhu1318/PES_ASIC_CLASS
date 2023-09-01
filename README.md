@@ -1014,7 +1014,7 @@ iverilog dff_const1.v tb_dff_const1.v
 ./a.out
 gtkwave tb_dff_const1.vcd
 ```
-
+![1](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/185f91b6-705f-4d86-8cfb-a44c5841f2dc)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/f3e25841-4def-4e25-8d3d-100b65359406)
@@ -1051,15 +1051,14 @@ endmodule
 ```
 **Simulate**
 ```
-iverilog dff_const1.v tb_dff_const2.v
+iverilog dff_const1.v tb_dff_const1.v
 ./a.out
 gtkwave tb_dff_const2.vcd
 ```
+![2](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/5a4a7044-0abb-492a-95b0-0e8a4a70685c)
+
+
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/cd075a4e-52c2-4751-ac7e-595fa0b4ec7a)
-
-
-
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/8c695554-3793-4019-a06e-fccadd07b749)
 
 
 **Synthesis**
@@ -1107,12 +1106,11 @@ iverilog dff_const3.v tb_dff_const2.v
 ./a.out
 gtkwave tb_dff_const3.vcd
 ```
+
+![3](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/1b54b546-d173-4430-9bb1-72755a1b6a46)
+
+
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/d271d98d-13b4-4a97-aa41-b6e8826c189f)
-
-
-
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/2ad2484b-102a-48dc-adbf-f2eef48c530a)
-
 
 **Synthesis**
 ```
@@ -1279,7 +1277,8 @@ iverilog ternary_operator_mux.v tb_ternary_operator_mux.v
 ./a.out
 gtkwave tb_ternary_operator_mux.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/26244993-c4d7-412a-9ecd-8fff2b05b6b4)
+
+![4](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/f8986bb2-ec81-4725-9e3c-7e2573e038e3)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/bcfc1cff-8cd4-4b4f-b005-f32c85f5eb8b)
@@ -1308,7 +1307,8 @@ iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_
 ./a.out
 gtkwave tb_ternary_operator_mux.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/3b94fd63-1440-42f9-a49b-f02208349ea3)
+
+![5](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/d875ffe3-a28c-4347-aac0-08251509bd8b)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/a4efbdd2-eadb-49af-a121-c5e92d421234)
@@ -1333,7 +1333,8 @@ iverilog bad_mux.v tb_bad_mux.v
 ./a.out
 gtkwave tb_bad_mux.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/2a277f02-f82e-4e17-8567-2ca3a82cbfa9)
+
+![6](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/1b0c0c0f-e405-4f1e-bb5a-ea0acef119db)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/652704cd-47e4-4037-a2e5-260ec79b7a7d)
@@ -1361,7 +1362,8 @@ iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_
 ./a.out
 gtkwave tb_bad_mux.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/1bea6a4d-0b51-4374-b6b5-5eb66537a50a)
+
+![7](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/42038072-8e1d-4849-9671-024c60e0cd50)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/fc348231-d5b4-43f8-8b10-a3f8ecef9aed)
@@ -1387,7 +1389,8 @@ iverilog blocking_caveat.v tb_blocking_caveat.v
 ./a.out
 gtkwave tb_blocking_caveat.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/9c703629-c6e3-4f31-941a-dcc30981bec3)
+
+![8](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/526c538c-f136-4956-9654-0ecdd88e8890)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/565826fe-9abc-4c61-8aeb-9e0d7b920549)
@@ -1415,7 +1418,8 @@ iverilog ../my_lib/verilog_model/primitives.v ../my_lib/verilog_model/sky130_fd_
 ./a.out
 gtkwave tb_blocking_caveat.vcd
 ```
-![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/e2b7f9e2-0dbc-4e44-9529-33dfd8ce64c4)
+
+![9](https://github.com/madhumadhu1318/PES_ASIC_CLASS/assets/90201844/0f281217-77bd-45d4-9fc7-5141c11e8b08)
 
 
 ![image](https://github.com/Vinodkumar8318/pes_asic_class/assets/142583979/9efe2896-c476-490e-8c9e-e0c8bd464e18)
